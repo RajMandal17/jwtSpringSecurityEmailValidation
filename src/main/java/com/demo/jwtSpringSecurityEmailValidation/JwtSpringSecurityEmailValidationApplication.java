@@ -9,5 +9,5 @@ public class JwtSpringSecurityEmailValidationApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(JwtSpringSecurityEmailValidationApplication.class, args);
 	}
-
+//
 }
